@@ -1,14 +1,16 @@
 # VIII. Evaluación
 
 ### a) Régimen de aprobación
-El régimen de la materia es de aprobación con examen final de acuerdo al art. 8, inc c) del Reglamento Académico de la Facultad. Los alumnos se consideran alumnos regulares la materia una vez que tienen las materias correlativas aprobadas. 
+El régimen de la materia es de aprobación con examen final de acuerdo al art. 8, inc d) del Reglamento Académico de la Facultad. Los alumnos se consideran alumnos regulares de la materia una vez que tienen las materias precorrelativas aprobadas. 
 
 La cátedra a su vez pone a disposición un regimen de promoción optativo con las siguientes condiciones:
-1) El alumno deberá ser alumno regular de la materia (es decir, tener aprobadas las materias precorrelativas establecidas por la normativa).
-2) Asistir al 75% de las clases teóricas y prácticas.
-3) Aprobar dos examenes parciales con nota no inferior a 6 (seis) en cada uno de ellos.
-4) Podrán optar por una única recuperación integral los alumnos que tengan por lo menos un examen parcial aprobado. La recuperación integral se aprueba con nota no inferior a 6 (seis).
-5) Para estar en condiciones de rendir los parciales los alumnos deberán entregar y aprobar el 70% de los trabajos prácticos asignados durante el cursado.
+1) El alumno deberá ser alumno regular de la materia (ver párrafo anterior). 
+2) Podrán iniciar el cursado bajo el regimen promocial los alumnos que tengan regular la materia precorrelativa y deberán tenerla aprobada hasta el turno de Abril/Mayo. 
+3) Asistir al 75% de las clases teóricas y prácticas.
+4) Aprobar dos exámenes parciales con nota no inferior a 6 (seis) en cada uno de ellos.
+5) Podrán optar por una única recuperación integral los alumnos que tengan por lo menos un examen parcial aprobado. La recuperación integral se aprueba con nota no inferior a 6 (seis).
+6) Para estar en condiciones de rendir los parciales los alumnos deberán entregar el 85% de los trabajos prácticos asignados durante el cursado.
+7) Aprobar el 70% de los evaluativos previstos durante el dictado.
 
 ### b) Momentos de evaluación
 La evaluación de los alumnos se realiza en forma permanente a través de su asistencia a las clases teóricas y prácticas, la presentación de trabajos prácticos y otras actividades, una evaluación parcial y el examen final. A modo de repaso, previo al parcial y al examen final de turno de diciembre, se realizan dos concursos de preguntas y respuestas y sus correspondientes análisis de los resultados y de los problemas encontrados.
